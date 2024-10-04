@@ -1,4 +1,4 @@
- Hi, I’m @shambox, I’m interested in cybersecurity.
+ Hi I’m Shamar, and I’m interested in cybersecurity.
 - I'll be sharing small labs I do here.
 
 <!---
