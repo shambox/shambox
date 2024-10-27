@@ -1,5 +1,5 @@
  Hi I’m Shamar, and I’m interested in cybersecurity.
-- I'll be sharing small labs I do here.
+- I'll be sharing small labs and projects I do here.
 
 <!---
 shambox/shambox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
