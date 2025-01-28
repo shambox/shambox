@@ -1,4 +1,4 @@
- Hi I’m Shamar, an aspiring Information Security Analyst
+ Hi I’m Shamar, an Information Security Analyst
 - I'll be sharing small labs and projects I do here.
 
 <!---
